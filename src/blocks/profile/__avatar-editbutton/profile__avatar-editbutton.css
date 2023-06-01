@@ -8,7 +8,7 @@
   background-color: rgb(0, 0, 0);
   border: none;
   /* opacity: 0; */
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 .profile__avatar-editbutton:hover {

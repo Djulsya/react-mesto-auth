@@ -6,7 +6,7 @@
   width: 18px;
   background-color: transparent;
   border-style: none;
-  cursor: pointer;
+  /* cursor: pointer; */
   margin: 20px 0 0 -40px;
   padding: 0;
   position: absolute;
